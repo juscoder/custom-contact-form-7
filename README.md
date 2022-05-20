@@ -3,4 +3,4 @@ Este es un trabajo de contact form 7 donde se ha personalizado el body del formu
 
 ## SCREENSHOT
 ---
-![CAPTURA DE PANTALLA](http://imgfz.com/i/mEuQV13.png)
+![CAPTURA DE PANTALLA](http://imgfz.com/i/wJQaClZ.png)
